@@ -1,0 +1,1 @@
+runhaskell $1.hs
